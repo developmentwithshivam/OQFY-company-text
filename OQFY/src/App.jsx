@@ -26,10 +26,6 @@ function Home() {
 
   return (
     <>
-      {/* <h1>Home</h1>
-    <Logout/>
-    <Test/> */}
-
       <nav>
         <div className="flex px-10 py-4 bg-amber-200 justify-between items-center">
           <div className="text-2xl font-bold">OQFY</div>
